@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice" verbose="0" thread-count="1">
+	<test name="Demo Qa" enabled="true">
+		<!-- <groups> -->
+		<!-- <run> -->
+		<!-- <include name="demo" /> -->
+		<!-- </run> -->
+		<!-- </groups> -->
+		<classes>
+			<!-- <class name="org.testng.testng.HomeScreen" /> -->
+			<class name="org.testng.testng.RegistrationScreen" />
+		</classes>
+	</test>
+</suite>

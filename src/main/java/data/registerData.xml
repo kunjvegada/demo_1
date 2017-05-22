@@ -1,0 +1,22 @@
+<root>
+	<register>
+		<valid>
+			<fname> test</fname>
+			<lname> user</lname>
+			<maritalstatus> Married</maritalstatus>
+			<hobby> Dance </hobby>
+			<country> India </country>
+			<dob>
+				<month> 9</month>
+				<day> 10 </day>
+				<year> 1993 </year>
+			</dob>
+			<phone> 1234567890</phone>
+			<username> usertest </username>
+			<email> @gmail.com </email>
+			<about> this is test user </about>
+			<password> abc123</password>
+			<confpwd> abc123 </confpwd>
+		</valid>
+	</register>
+</root>
